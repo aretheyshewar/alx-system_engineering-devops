@@ -1,1 +1,1 @@
-redirectory to the fie
+my readme file for shell redirections
