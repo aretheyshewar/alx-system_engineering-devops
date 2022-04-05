@@ -1,0 +1,1 @@
+tr -d C | tr -d c
